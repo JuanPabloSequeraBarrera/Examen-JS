@@ -2,6 +2,8 @@ EJERCICIO NUMERO 1: lo que hice fue que usé una constante en el web component q
 
 
 
+EJERCICIO NUMERO 2: No alcancé :(
+
 
 
 EJERCICIO NUMERO 3:  En el ejercicio numero 3 me di cuenta que tbody no tenia id, entonces al pasar eso table-body pues siempre iba a fallar y no iba a agregar ninguna columna, las correcciones que hice fue que le di un id a ese elmento para que lo pudiese seleccionar correctamente en el add row
