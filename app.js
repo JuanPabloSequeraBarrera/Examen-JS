@@ -50,7 +50,7 @@ document.addEventListener('DOMContentLoaded', (e) => {
     const crearEJ02HTML = () => {
         let skillHTML = /* html */`
         <mensaje-component>
-            <h1>Holaaa</h1>
+            <h1>Hola soy juan</h1>
         </mensaje-component>
         `;
         return skillHTML;
