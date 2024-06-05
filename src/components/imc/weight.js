@@ -54,6 +54,7 @@ const calculateIMC = (peso, altura, resultContainer) => {
 
     resultContainer.innerHTML = `
         <p>${category}</p>
+        <p>${operation}</p>
         <img src="${imageUrl}" alt="${category}" style="width: 100%;">
     `;
 };

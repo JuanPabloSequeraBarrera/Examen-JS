@@ -41,7 +41,6 @@ class TableComponent extends HTMLElement {
         if (nameInput && ageInput) {
             const tableBody = this.shadowRoot.getElementById('table-body');
             const row = document.createElement('tr');
-
             row.innerHTML = `
             <td>${nameInput}</td>
             <td>${ageInput}</td>
