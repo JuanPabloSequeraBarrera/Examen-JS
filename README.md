@@ -2,7 +2,7 @@ EJERCICIO NUMERO 1: lo que hice fue que usé una constante en el web component q
 
 
 
-EJERCICIO NUMERO 2: No alcancé :(
+EJERCICIO NUMERO 2: Hice algunos cambios al elemento que nos dio en el examen como por ejemplo algunos listeners que hacian falta, el manejo de eventos y agregué las imagenes ahi, las volví un objeto y las traquee con puras funciones flecha para poder llegar a mostrar los personajes, en cuanto a los botones de next y previous me guíe mucho por los ejemplos y funcionó 
 
 
 
